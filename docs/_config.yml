@@ -1,4 +1,3 @@
-#theme: jekyll-theme-minimal
-remote_theme: joshgerdes/jekyll-uno
-title: Test
-description: Desc
+theme: jekyll-theme-tactile
+title: Ramn AS
+description: Consulting · Development · Λrchitecture
